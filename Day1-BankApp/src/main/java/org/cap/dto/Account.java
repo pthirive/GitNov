@@ -7,6 +7,7 @@ public class Account {
 	private double amount;
 	private double fin;
 	
+	
 	public Account(){}
 	
 	public Account(int accountNo, Customer customer, double amount) {

@@ -7,4 +7,14 @@ public class AccountUtil {
 	public static int generateAccountNumber(){
 		return accNo++;
 	}
+	
+	public void welcomeP()
+	{
+		System.out.println("welcome");
+	}
+	
+	public void welcomCP()
+	{
+		System.out.println("welcome");
+	}
 }
