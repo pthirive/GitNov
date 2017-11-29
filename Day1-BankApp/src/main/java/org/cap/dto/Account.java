@@ -5,6 +5,7 @@ public class Account {
 	private int accountNo;
 	private Customer customer;
 	private double amount;
+	private double fin;
 	
 	public Account(){}
 	
